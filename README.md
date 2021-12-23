@@ -1,2 +1,2 @@
 # Coursera-WebDev-original
-Correct repo for Coursera Web Dev
+Repo for HTML,CSS,JS for Web Developers coursework
