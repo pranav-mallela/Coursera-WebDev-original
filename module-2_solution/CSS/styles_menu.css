@@ -14,10 +14,12 @@ div{
     position: relative;
     border: 1px solid black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0.5%;
+    margin-top: 2.5%;
+    background-color: aquamarine;
 }
 
 p{
-    background-color: aquamarine;
     margin-top: 0;
     margin-left: 10px;
     margin-right: 10px;
@@ -58,7 +60,7 @@ p{
 {
     .col-lg-4{
         float: left;
-        width: 33.33%;
+        width: 32.3%;
     }
 }
 
@@ -66,7 +68,7 @@ p{
 {
     .col-md-6{
         float: left;
-        width: 50%;
+        width: 49%;
     }
     .col-md-12{
         width: 100%;
